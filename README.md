@@ -14,7 +14,7 @@
 - [x] ⚡ 𝐅𝐚𝐬𝐭 & 𝐒𝐭𝐚𝐛𝐥𝐞 ✨
 - [x] Deploy 10 Bots in One Time 🔥
 - [x] PormSpam 🌚
-- [x] https://github.com/Botfatherspambot/MightyXBotSpam)
+- [x] https://github.com/(Botfatherspambot/MightyXBotSpam)
 
 
 # Support & Updates
