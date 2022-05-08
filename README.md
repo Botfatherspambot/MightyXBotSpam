@@ -14,11 +14,7 @@
 - [x] ⚡ 𝐅𝐚𝐬𝐭 & 𝐒𝐭𝐚𝐛𝐥𝐞 ✨
 - [x] Deploy 10 Bots in One Time 🔥
 - [x] PormSpam 🌚
-- [x] Deploy Using Bot Token 🤖
-
-# Deploy To Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeingMighty/MightyBotSpamDeploy)
+- [x] https://github.com/Botfatherspambot/MightyXBotSpam)
 
 
 # Support & Updates
